@@ -1,0 +1,16 @@
+Create DATABASE Blog;
+GO
+USE Blog;
+CREATE TABLE BlogPost(
+id INT PRIMARY KEY IDENTITY,
+blogTitle VARCHAR(MAX) NOT NULL,
+content TEXT NOT NULL,
+blogDate DATETIME NOT NULL
+)
+GO
+BEGIN TRAN
+INSERT INTO BlogPost
+Values ('Test','This is Test Data', CURRENT_TIMESTAMP)
+COMMIT TRAN
+
+SELECT * FROM BlogPost;
