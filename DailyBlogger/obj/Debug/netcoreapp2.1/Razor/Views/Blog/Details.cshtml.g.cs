@@ -81,7 +81,7 @@ using DailyBlogger.Models;
             WriteLiteral("</p>\r\n    </div>\r\n\r\n    <div>\r\n        <p>\r\n            ");
             EndContext();
             BeginContext(221, 64, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3c11d2644bfb4a4fbec8537d35fba50a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d8e5d5b5111046eda52f892eac4e2b00", async() => {
                 BeginContext(267, 14, true);
                 WriteLiteral("Edit this Post");
                 EndContext();
@@ -116,7 +116,7 @@ using DailyBlogger.Models;
             WriteLiteral("\r\n        </p>\r\n        <p>\r\n            ");
             EndContext();
             BeginContext(326, 68, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "25a70aff8ff0430db71e9b7b65a97cc8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "42e31e3b3b074c4a9314241d5ff04770", async() => {
                 BeginContext(374, 16, true);
                 WriteLiteral("Delete this Post");
                 EndContext();

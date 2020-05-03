@@ -70,3 +70,4 @@ C:\Users\ACT\source\Blog_Project\DailyBlogger\obj\Debug\netcoreapp2.1\DailyBlogg
 C:\Users\ACT\source\Blog_Project\DailyBlogger\obj\Debug\netcoreapp2.1\DailyBlogger.dll
 C:\Users\ACT\source\Blog_Project\DailyBlogger\obj\Debug\netcoreapp2.1\DailyBlogger.pdb
 C:\Users\ACT\source\Blog_Project\DailyBlogger\obj\Debug\netcoreapp2.1\DailyBlogger.csproj.CopyComplete
+C:\Users\ACT\source\Blog_Project\DailyBlogger\obj\Debug\netcoreapp2.1\Razor\Views\Home\View.cshtml.g.cs

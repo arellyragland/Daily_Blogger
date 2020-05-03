@@ -63,7 +63,7 @@ using DailyBlogger.Models;
             WriteLiteral("\r\n<!DOCTYPE html>\r\n\r\n<html>\r\n");
             EndContext();
             BeginContext(58, 99, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "23797e92cc144e9487a03114733e3511", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3529caff1dea43e4a4d002f4d515f6e0", async() => {
                 BeginContext(64, 86, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>View</title>\r\n");
                 EndContext();
@@ -83,7 +83,7 @@ using DailyBlogger.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(159, 51, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8ffaa956cb1c450b8c9261d1b4fe6dbb", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "068f1c17637f4682b91a99e6511ee76e", async() => {
                 BeginContext(165, 38, true);
                 WriteLiteral("\r\n\r\n    <h2> A Very Simple Page</h2>\r\n");
                 EndContext();

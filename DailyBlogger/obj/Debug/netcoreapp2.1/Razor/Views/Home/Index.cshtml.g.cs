@@ -63,12 +63,12 @@ using DailyBlogger.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(47, 86, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a1a611ee62ff49ce8951074dc07f46c0", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "550507501cc84a658a19c16c04c56d36", async() => {
                 BeginContext(90, 6, true);
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(96, 31, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "25e9c3e6dd5d460cb4cf7c3dcd5bf86f", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "b18278417c3f42e08e72ed4459a557d0", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

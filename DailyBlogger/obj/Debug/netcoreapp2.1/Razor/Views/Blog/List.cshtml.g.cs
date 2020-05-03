@@ -81,7 +81,7 @@ using DailyBlogger.Models;
                     <h3>");
             EndContext();
             BeginContext(412, 111, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f108dde0ba32476abc10eb78bf1892f0", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ef1befa8fe514dba9e3296f0c88c94c1", async() => {
                 BeginContext(480, 1, true);
                 WriteLiteral(" ");
                 EndContext();
@@ -146,7 +146,7 @@ using DailyBlogger.Models;
             WriteLiteral("\r\n        <div>\r\n            ");
             EndContext();
             BeginContext(705, 38, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bdf5b71f01b9431c9bd821b1b12daca7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "548c6632cd4d49338da1ff63bc0a9480", async() => {
                 BeginContext(725, 14, true);
                 WriteLiteral("Add a New Post");
                 EndContext();
